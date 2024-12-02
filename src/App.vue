@@ -2,7 +2,7 @@
 </script>
 
 <template>
-  <p>hello</p>
+  <el-button>hello</el-button>
 </template>
 
 <style scoped>
